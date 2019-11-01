@@ -1,0 +1,2 @@
+all:
+	gcc Library.c StackSources\Stack.c ApplicationSources\Req2.c ApplicationSources\Req4.c LinkedListSources\LinkedList.c QueueSources\Queue.c FileManipulationSources\fileManipulation.c  -o firstProject

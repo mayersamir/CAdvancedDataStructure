@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "stackinterface.h": "c",
+        "queue.h": "c"
+    }
+}
